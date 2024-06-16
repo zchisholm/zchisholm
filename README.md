@@ -1,5 +1,9 @@
+<div id="header" align="center">
+  <img src="./logo-gif.gif" width="300"/>
+</div>
+
 # 👋 Welcome To My Profile
-Guests: ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+<!--Guests: ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge) -->
 
 To the point:
 
