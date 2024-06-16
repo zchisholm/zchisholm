@@ -28,6 +28,9 @@ To the point:
 ## Projects
 
 ## Starter Guides
+<div id="docker-guide">
+  <img src="./Getting-Started-Docker-ZC.jpg" href="https://github.com/zchisholm/TKH-Group-2-Docker" width="200"/>
+</div>
 
 ## My Stats
 <!-- [![Zedd's GitHub stats](https://github-readme-stats.vercel.app/api?username=zchisholm)](https://github.com/anuraghazra/github-readme-stats) -->
