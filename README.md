@@ -1,14 +1,21 @@
 <div id="header" align="center">
-  <img src="./logo-gif.gif" width="300"/>
+  <img src="./logo-gif.gif" width="300"/> <br>
+  <div id="badges">
+    <a href="https://linkedin.com/in/zchisholm">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=zchisholm&style=flat-square&color=blue" alt=""/>
 </div>
 
-# 👋 Welcome To My Profile
-<!--Guests: ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge) -->
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Welcome To My Profile
 
-To the point:
+I'm eager to contribute to the success of innovative companies by leveraging my expertise in information security and software engineering. I thrive in a fast-paced, mission-focused environment that fosters innovation, growth, and problem-solving. I enjoy tackling new challenges and expanding my knowledge base.
 
-- 🔭 I’m currently working on shh it's private 🤫
-- 🌱 I’m currently learning API Security and NEXT.JS
+🔥 Rapid Fire:
+
+- 🔭 I’m currently working on.. shh it's private 🤫
+- 🌱 I’m currently learning DevSecOps, API Security, and NEXT.JS
 - 👯 I’m looking to collaborate on cool businesss projects that help shape communities.
 - 🤔 I’m looking for help with financial empowerment for all people.
 - 💬 Ask me about cybersecurity, app development, and real estate.
@@ -16,14 +23,16 @@ To the point:
 - 😄 Pronouns: 🤨
 - ⚡ Fun fact: ✈🪂
 
+My interests encompass: 🤖 AI, 💹 FinTech, 🕹 Gaming (AR/VR), 🏡 Real Estate 
+
 
 ## Tech and Skills
 | Skill         | Tech         |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Cloud         | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  |
-| Dev           | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  |
-| Sec           | ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)  |
-| Ops           | ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  |
+| Cloud         | <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="50" height="50"/>&nbsp;  |
+| Dev           | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="50" height="50"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/> |
+| Sec           | ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) |
+| Ops           | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="k8s" alt="k8s" width="50" height="50"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;  |
 
 ## Projects
 
@@ -41,3 +50,4 @@ Credits:
 - [@MishManners](https://github.com/mishmanners/MishManners) - For the cool profile tips
 - [@anuraghazra](https://github.com/anuraghazra) -  For the GitHub Stats Chart
 - [@Ileriayo](https://github.com/Ileriayo/) - for the badges
+- [@devicons](https://github.com/devicons/) - for the icons
