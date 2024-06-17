@@ -19,14 +19,16 @@ I'm eager to contribute to the success of innovative companies by leveraging my 
 - 👯 I’m looking to collaborate on cool businesss projects that help shape communities.
 - 🤔 I’m looking for help with financial empowerment for all people.
 - 💬 Ask me about cybersecurity, app development, and real estate.
-- 📫 How to reach me: ...
+- 📫 How to reach me: smoke signals... or  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" href="https://linkedin.com/in/zchisholm" title="LinkedIn" alt="LinkedIn" width="25" height="25"/>&nbsp;
 - 😄 Pronouns: 🤨
 - ⚡ Fun fact: ✈🪂
 
 My interests encompass: 🤖 AI, 💹 FinTech, 🕹 Gaming (AR/VR), 🏡 Real Estate 
 
 
-## Tech and Skills
+## 💻 Tech and Skills
+> Non-exhaustive list
+
 | Skill         | Tech         |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Cloud         | <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="50" height="50"/>&nbsp;  |
@@ -34,14 +36,14 @@ My interests encompass: 🤖 AI, 💹 FinTech, 🕹 Gaming (AR/VR), 🏡 Real Es
 | Sec           | ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) |
 | Ops           | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="k8s" alt="k8s" width="50" height="50"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;  |
 
-## Projects
+## 🛠 Projects
 
-## Starter Guides
+## 📖 Starter Guides
 <div id="docker-guide">
   <img src="./Getting-Started-Docker-ZC.jpg" href="https://github.com/zchisholm/TKH-Group-2-Docker" width="200"/>
 </div>
 
-## My Stats
+## 🔥 My Stats
 <!-- [![Zedd's GitHub stats](https://github-readme-stats.vercel.app/api?username=zchisholm)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zchisholm&theme=tokyonight&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
