@@ -37,6 +37,8 @@ My interests encompass: 🤖 AI, 💹 FinTech, 🕹 Gaming (AR/VR), 🏡 Real Es
 | Ops           | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="k8s" alt="k8s" width="50" height="50"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;  |
 
 ## 🛠 Projects
+....in-progress
+> Let them cook 🍳🍽
 
 ## 📖 Starter Guides
 <div id="docker-guide">
