@@ -43,6 +43,7 @@ My interests encompass: 🤖 AI, 💹 FinTech, 🕹 Gaming (AR/VR), 🏡 Real Es
 ## 📖 Starter Guides
 <div id="docker-guide">
   <img src="./Getting-Started-Docker-ZC.jpg" href="https://github.com/zchisholm/TKH-Group-2-Docker" width="200"/>
+  <img src="./Self-Study-Cyber-ZC.jpg" href="https://github.com/zchisholm/starting-in-cyber-guide" width="200"/>
 </div>
 
 ## 🔥 My Stats
