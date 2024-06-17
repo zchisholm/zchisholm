@@ -36,6 +36,9 @@ My interests encompass: 🤖 AI, 💹 FinTech, 🕹 Gaming (AR/VR), 🏡 Real Es
 | Sec           | ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)&nbsp; ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)&nbsp; ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)&nbsp; |
 | Ops           | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="k8s" alt="k8s" width="50" height="50"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="50" height="50"/>&nbsp; |
 
+### Certs
+Soon come...
+
 ## 🛠 Projects
 ....in-progress
 > Let them cook 🍳🍽
@@ -58,5 +61,5 @@ My interests encompass: 🤖 AI, 💹 FinTech, 🕹 Gaming (AR/VR), 🏡 Real Es
 Credits:
 - [@MishManners](https://github.com/mishmanners/MishManners) - For the cool profile tips
 - [@anuraghazra](https://github.com/anuraghazra) -  For the GitHub Stats Chart
-- [@Ileriayo](https://github.com/Ileriayo/) - for the badges
-- [@devicons](https://github.com/devicons/) - for the icons
+- [@Ileriayo](https://github.com/Ileriayo/) - For the badges
+- [@devicons](https://github.com/devicons/) - For the icons
