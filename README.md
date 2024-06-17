@@ -19,7 +19,7 @@ I'm eager to contribute to the success of innovative companies by leveraging my 
 - 👯 I’m looking to collaborate on cool businesss projects that help shape communities.
 - 🤔 I’m looking for help with financial empowerment for all people.
 - 💬 Ask me about cybersecurity, app development, and real estate.
-- 📫 How to reach me: smoke signals... or  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" href="https://linkedin.com/in/zchisholm" title="LinkedIn" alt="LinkedIn" width="25" height="25"/>&nbsp;
+- 📫 How to reach me: smoke signals... or &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-zchisholm-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zchisholm)&nbsp;
 - 😄 Pronouns: 🤨
 - ⚡ Fun fact: ✈🪂
 
