@@ -20,7 +20,6 @@ I'm eager to contribute to the success of innovative companies by leveraging my 
 - 🤔 I’m looking for help with financial empowerment for all people.
 - 💬 Ask me about cybersecurity, app development, and real estate.
 - 📫 How to reach me: smoke signals... or &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-zchisholm-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zchisholm)&nbsp;
-- 😄 Pronouns: 🤨
 - ⚡ Fun fact: ✈🪂
 
 My interests encompass: 🤖 AI, 💹 FinTech, 🕹 Gaming (AR/VR), 🏡 Real Estate 
