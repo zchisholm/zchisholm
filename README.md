@@ -42,6 +42,15 @@ Soon come...
 ....in-progress
 > Let them cook 🍳🍽
 
+## 📖 Starter Guides
+<div id="starter-guides">
+  <a href="https://github.com/zchisholm/TKH-Group-2-Docker">
+    <img src="./Getting-Started-Docker-ZC.jpg" width="200" alt="Getting Started with Docker"/>
+  </a>&nbsp;
+  <a href="https://github.com/zchisholm/starting-in-cyber-guide">
+    <img src="./Self-Study-Cyber-ZC.jpg" width="200" alt="Self Study Cyber Guide"/>
+  </a>
+</div>
 
 ## 🔥 My Stats
 <!-- [![Zedd's GitHub stats](https://github-readme-stats.vercel.app/api?username=zchisholm)](https://github.com/anuraghazra/github-readme-stats) -->
