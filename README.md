@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="./logo-gif.gif" width="300"/> <br>
+  <img src="./assets/imgs/logo-gif.gif" width="300"/> <br>
   <div id="badges">
     <a href="https://linkedin.com/in/zchisholm">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,7 +16,7 @@ I'm eager to contribute to the success of innovative companies by leveraging my 
 
 - 🔭 I’m currently working on.. shh it's private 🤫
 - 🌱 I’m currently learning DevSecOps, API Security, and NEXT.JS
-- 👯 I’m looking to collaborate on cool businesss projects that help shape communities.
+- 👯 I’m looking to collaborate on cool business projects that help shape communities.
 - 🤔 I’m looking for help with financial empowerment for all people.
 - 💬 Ask me about cybersecurity, app development, and real estate.
 - 📫 How to reach me: smoke signals... or &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-zchisholm-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zchisholm)&nbsp;
@@ -36,7 +36,27 @@ My interests encompass: 🤖 AI, 💹 FinTech, 🕹 Gaming (AR/VR), 🏡 Real Es
 | Ops           | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="k8s" alt="k8s" width="50" height="50"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="50" height="50"/>&nbsp; |
 
 ### Certs
-Soon come...
+<div id="certs">
+  <a href="https://www.credly.com/earner/earned/badge/a4a08e7f-f154-4663-a4ea-66e847053826">
+    <img src="./assets/badges/ISC2-Exam-Vol-Badge.png" width="100" alt="ISC2 Exam Volunteer"/>
+  </a>&nbsp;
+  <a href="https://www.credly.com/earner/earned/badge/764b9610-4cde-4f62-af06-7b03f6e29ef5">
+    <img src="./assets/badges/CAPM-Badge.png" width="100" alt="Certified Associate in Project Management"/>
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/0d136bf5-2365-4000-9efc-7c0f36474f9d">
+    <img src="./assets/badges/AWS-CCP-Badge.png" width="100" alt="AWS Certified Cloud Practitioner"/>
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/58ad7293-2629-4abf-a2cb-d9751ea6ade5">
+    <img src="./assets/badges/CompTIA-Sec-Plus-Badge.png" width="100" alt="CompTIA Security+"/>
+  </a>
+  <br>
+  <a href="https://www.credly.com/earner/earned/badge/6fe9333e-8816-4ff4-8bb0-98a11484a7ac">
+    <img src="./assets/badges/Goggle-Cyber-Cert-Badge.png" width="100" alt="Google Cybersecurity Professional"/>
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/ZC-0015/A1E239FFF149DFA8?sharingId=6A206ABBBE59E65E">
+    <img src="./assets/badges/Goggle-Cyber-Cert-Badge.png" width="100" alt="Azure AI-102"/>
+  </a>
+</div>
 
 ## 🛠 Projects
 ....in-progress
@@ -45,10 +65,10 @@ Soon come...
 ## 📖 Starter Guides
 <div id="starter-guides">
   <a href="https://github.com/zchisholm/TKH-Group-2-Docker">
-    <img src="./Getting-Started-Docker-ZC.jpg" width="200" alt="Getting Started with Docker"/>
+    <img src="./assets/imgs/Getting-Started-Docker-ZC.jpg" width="200" alt="Getting Started with Docker"/>
   </a>&nbsp;
   <a href="https://github.com/zchisholm/starting-in-cyber-guide">
-    <img src="./Self-Study-Cyber-ZC.jpg" width="200" alt="Self Study Cyber Guide"/>
+    <img src="./assets/imgs/Self-Study-Cyber-ZC.jpg" width="200" alt="Self Study Cyber Guide"/>
   </a>
 </div>
 
