@@ -38,23 +38,23 @@ My interests encompass: 🤖 AI, 💹 FinTech, 🕹 Gaming (AR/VR), 🏡 Real Es
 ### Certs
 <div id="certs">
   <a href="https://www.credly.com/earner/earned/badge/a4a08e7f-f154-4663-a4ea-66e847053826">
-    <img src="./assets/badges/ISC2-Exam-Vol-Badge.png" width="100" alt="ISC2 Exam Volunteer"/>
+    <img src="./assets/badges/ISC2-Exam-Vol-Badge.png" width="100" Title="ISC2 Exam Volunteer" alt="ISC2 Exam Volunteer"/>
   </a>&nbsp;
   <a href="https://www.credly.com/earner/earned/badge/764b9610-4cde-4f62-af06-7b03f6e29ef5">
-    <img src="./assets/badges/CAPM-Badge.png" width="100" alt="Certified Associate in Project Management"/>
+    <img src="./assets/badges/CAPM-Badge.png" width="100" Title="PMI Certified Associate Project Manager" alt="Certified Associate in Project Management"/>
   </a>&nbsp;
   <a href="https://www.credly.com/earner/earned/badge/0d136bf5-2365-4000-9efc-7c0f36474f9d">
-    <img src="./assets/badges/AWS-CCP-Badge.png" width="100" alt="AWS Certified Cloud Practitioner"/>
+    <img src="./assets/badges/AWS-CCP-Badge.png" width="100" Title="AWS CCP" alt="AWS Certified Cloud Practitioner"/>
   </a>&nbsp;
   <a href="https://www.credly.com/earner/earned/badge/58ad7293-2629-4abf-a2cb-d9751ea6ade5">
-    <img src="./assets/badges/CompTIA-Sec-Plus-Badge.png" width="100" alt="CompTIA Security+"/>
+    <img src="./assets/badges/CompTIA-Sec-Plus-Badge.png" width="100" Title="CompTIA Security+" alt="CompTIA Security+"/>
   </a>&nbsp;
   <br>
   <a href="https://www.credly.com/earner/earned/badge/6fe9333e-8816-4ff4-8bb0-98a11484a7ac">
-    <img src="./assets/badges/Goggle-Cyber-Cert-Badge.png" width="100" alt="Google Cybersecurity Professional"/>
+    <img src="./assets/badges/Goggle-Cyber-Cert-Badge.png" width="100" Title="Google Cybersecurity Professional" alt="Google Cybersecurity Professional"/>
   </a>&nbsp;
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/ZC-0015/A1E239FFF149DFA8?sharingId=6A206ABBBE59E65E">
-    <img src="./assets/badges/Azure-A-102-Badge.svg" width="100" alt="Azure AI-102"/>
+    <img src="./assets/badges/Azure-A-102-Badge.svg" width="100" Title="AI-102" alt="Azure AI-102"/>
   </a>&nbsp;
 </div>
 
