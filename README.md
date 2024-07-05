@@ -42,20 +42,20 @@ My interests encompass: 🤖 AI, 💹 FinTech, 🕹 Gaming (AR/VR), 🏡 Real Es
   </a>&nbsp;
   <a href="https://www.credly.com/earner/earned/badge/764b9610-4cde-4f62-af06-7b03f6e29ef5">
     <img src="./assets/badges/CAPM-Badge.png" width="100" alt="Certified Associate in Project Management"/>
-  </a>
+  </a>&nbsp;
   <a href="https://www.credly.com/earner/earned/badge/0d136bf5-2365-4000-9efc-7c0f36474f9d">
     <img src="./assets/badges/AWS-CCP-Badge.png" width="100" alt="AWS Certified Cloud Practitioner"/>
-  </a>
+  </a>&nbsp;
   <a href="https://www.credly.com/earner/earned/badge/58ad7293-2629-4abf-a2cb-d9751ea6ade5">
     <img src="./assets/badges/CompTIA-Sec-Plus-Badge.png" width="100" alt="CompTIA Security+"/>
-  </a>
+  </a>&nbsp;
   <br>
   <a href="https://www.credly.com/earner/earned/badge/6fe9333e-8816-4ff4-8bb0-98a11484a7ac">
     <img src="./assets/badges/Goggle-Cyber-Cert-Badge.png" width="100" alt="Google Cybersecurity Professional"/>
-  </a>
+  </a>&nbsp;
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/ZC-0015/A1E239FFF149DFA8?sharingId=6A206ABBBE59E65E">
     <img src="./assets/badges/Azure-A-102-Badge.svg" width="100" alt="Azure AI-102"/>
-  </a>
+  </a>&nbsp;
 </div>
 
 ## 🛠 Projects
