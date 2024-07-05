@@ -54,7 +54,7 @@ My interests encompass: 🤖 AI, 💹 FinTech, 🕹 Gaming (AR/VR), 🏡 Real Es
     <img src="./assets/badges/Goggle-Cyber-Cert-Badge.png" width="100" alt="Google Cybersecurity Professional"/>
   </a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/ZC-0015/A1E239FFF149DFA8?sharingId=6A206ABBBE59E65E">
-    <img src="./assets/badges/Goggle-Cyber-Cert-Badge.png" width="100" alt="Azure AI-102"/>
+    <img src="./assets/badges/Azure-A-102-Badge.svg" width="100" alt="Azure AI-102"/>
   </a>
 </div>
 
