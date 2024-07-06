@@ -22,7 +22,7 @@ I'm eager to contribute to the success of innovative companies by leveraging my 
 - 📫 How to reach me: smoke signals... or &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-zchisholm-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zchisholm)&nbsp;
 - ⚡ Fun fact: ✈🪂
 
-My interests encompass: 🤖 AI, 💹 FinTech, 🕹 Gaming (AR/VR), 🏡 Real Estate 
+My interests encompass: 🤖 AI, 💹 FinTech, 🔐 Security, 🏡 Real Estate 
 
 
 ## 💻 Tech and Skills
