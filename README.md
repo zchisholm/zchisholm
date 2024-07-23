@@ -78,6 +78,8 @@ My interests encompass: 🤖 AI, 💹 FinTech, 🔐 Security, 🏡 Real Estate
 ## 🔥 My Stats
 <!-- [![Zedd's GitHub stats](https://github-readme-stats.vercel.app/api?username=zchisholm)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Ginenjuse.png" alt="TryHackMe">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zchisholm&theme=tokyonight&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 Credits:
