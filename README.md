@@ -49,7 +49,6 @@ My interests encompass: 🤖 AI, 💹 FinTech, 🔐 Security, 🏡 Real Estate
   <a href="https://www.credly.com/earner/earned/badge/58ad7293-2629-4abf-a2cb-d9751ea6ade5">
     <img src="./assets/badges/CompTIA-Sec-Plus-Badge.png" width="100" Title="CompTIA Security+" alt="CompTIA Security+"/>
   </a>&nbsp;
-  <br>
   <a href="https://www.credly.com/earner/earned/badge/6fe9333e-8816-4ff4-8bb0-98a11484a7ac">
     <img src="./assets/badges/Goggle-Cyber-Cert-Badge.png" width="100" Title="Google Cybersecurity Professional" alt="Google Cybersecurity Professional"/>
   </a>&nbsp;
