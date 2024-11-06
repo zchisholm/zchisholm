@@ -57,6 +57,7 @@ My interests encompass: 🤖 AI, 💹 FinTech, 🔐 Security, 🏡 Real Estate
   </a>&nbsp;
 </div>
 
+
 ## 🛠 Projects
 <div id="starter-guides">
   <a href="https://github.com/zchisholm/DevOps-Pipeline-for-CI-CD">
