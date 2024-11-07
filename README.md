@@ -15,7 +15,7 @@ I'm eager to contribute to the success of innovative companies by leveraging my 
 🔥 Rapid Fire:
 
 - 🔭 I’m currently working on.. shh it's private 🤫 (Uses: NEXT.JS, AWS, Figma)
-- 🌱 I’m currently learning DevSecOps, API Security, and NEXT.JS
+- 🌱 I’m currently learning AI Security, API Security, Prompt Engineering and NEXT.JS
 - 👯 I’m looking to collaborate on cool business projects that help shape communities.
 - 🤔 I’m looking for help with financial empowerment for all people.
 - 💬 Ask me about cybersecurity, app development, and real estate.
