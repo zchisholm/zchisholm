@@ -65,6 +65,13 @@ My interests encompass: 🤖 AI, 💹 FinTech, 🔐 Security, 🏡 Real Estate
   </a>&nbsp;
 </div>
 
+### 👨🏾‍🍳 Other Projects
+
+| Project Name                           | Description                                              | Technologies Used                |
+|----------------------------------------|----------------------------------------------------------|----------------------------------|
+| [Pantry Tracker](https://github.com/zchisholm/h02-pantry-tracker) | Quickly and easily track what is in your pantry.             | NEXT.js, Typescript             |
+| [z-cord](https://github.com/zchisholm/z-cord) | Chat application with AI content moderation. | Groq, Llama, Next.js, Typescript, Convex, Clerk |
+
 ## 📖 Starter Guides
 <div id="starter-guides">
   <a href="https://github.com/zchisholm/TKH-Group-2-Docker">
@@ -81,13 +88,6 @@ My interests encompass: 🤖 AI, 💹 FinTech, 🔐 Security, 🏡 Real Estate
 <img src="https://tryhackme-badges.s3.amazonaws.com/Ginenjuse.png" alt="TryHackMe" width="300px">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zchisholm&theme=tokyonight&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
-## 👨🏾‍🍳 Other Projects
-
-| Project Name                           | Description                                              | Technologies Used                |
-|----------------------------------------|----------------------------------------------------------|----------------------------------|
-| [Pantry Tracker](https://github.com/zchisholm/h02-pantry-tracker) | Quickly and easily track what is in your pantry.             | NEXT.js, Typescript             |
-| [z-cord](https://github.com/zchisholm/z-cord) | Chat application with AI content moderation. | Groq, Llama, Next.js, Typescript, Convex, Clerk |
 
 Credits:
 - [@MishManners](https://github.com/mishmanners/MishManners) - For the cool profile tips
