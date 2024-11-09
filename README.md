@@ -87,6 +87,7 @@ My interests encompass: 🤖 AI, 💹 FinTech, 🔐 Security, 🏡 Real Estate
 | Project Name                           | Description                                              | Technologies Used                |
 |----------------------------------------|----------------------------------------------------------|----------------------------------|
 | [Pantry Tracker](https://github.com/zchisholm/h02-pantry-tracker) | Quickly and easily track what is in your pantry.             | NEXT.js, Typescript             |
+| [z-cord](https://github.com/zchisholm/z-cord) | Chat application with AI content moderation. | Groq, Llama, Next.js, Typescript, Convex, Clerk |
 
 Credits:
 - [@MishManners](https://github.com/mishmanners/MishManners) - For the cool profile tips
