@@ -67,10 +67,10 @@ My interests encompass: 🤖 AI, 💹 FinTech, 🔐 Security, 🏡 Real Estate
 
 ### 👨🏾‍🍳 Other Projects
 
-| Project Name                           | Description                                              | Technologies Used                |
-|----------------------------------------|----------------------------------------------------------|----------------------------------|
-| [Pantry Tracker](https://github.com/zchisholm/h02-pantry-tracker) | Quickly and easily track what is in your pantry.             | NEXT.js, Typescript             |
-| [z-cord](https://github.com/zchisholm/z-cord) | Chat application with AI content moderation. | Groq, Llama, Next.js, Typescript, Convex, Clerk |
+| Project Name                           | Description                                              | Technologies Used                | Links     |
+|----------------------------------------|----------------------------------------------------------|----------------------------------|-----------|
+| [Pantry Tracker](https://github.com/zchisholm/h02-pantry-tracker) | Quickly and easily track what is in your pantry.             | NEXT.js, Typescript             |  |
+| [z-cord](https://github.com/zchisholm/z-cord) | Chat application with AI content moderation. | Groq, Llama, Next.js, Typescript, Convex, Clerk | [Video](https://calendly.com/walkerlance/financial-services-initial-intake-meeting) |
 
 ## 📖 Starter Guides
 <div id="starter-guides">
