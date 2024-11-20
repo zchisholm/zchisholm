@@ -24,6 +24,31 @@ I want to work on cool projects with smart people solving real problems. I enjoy
 
 My interests encompass: 🤖 AI, 💹 FinTech, 🔐 Security, 🏡 Real Estate 
 
+## 🛠 Projects
+<div id="starter-guides">
+  <a href="https://github.com/zchisholm/DevOps-Pipeline-for-CI-CD">
+    <img src="./assets/imgs/DevSecOps-Project-Feature.png" width="200" alt="DevSecOps Pipeline in AWS"/>
+  </a>&nbsp;
+</div>
+
+### 👨🏾‍🍳 Other Projects
+
+| Project Name                           | Description                                              | Technologies Used                | Links     |
+|----------------------------------------|----------------------------------------------------------|----------------------------------|-----------|
+| [NeuroVision](https://github.com/zchisholm/Neuro-Vision) | AI Brain Tumor Detector  | Next.js, Convex, Clerk, Groq, ngrok | [Video Demo](https://www.youtube.com/watch?v=TqK2Pa8NoKQ) |
+| [z-cord](https://github.com/zchisholm/z-cord) | Chat application with AI content moderation.   | Groq, Llama, Next.js, Typescript, Convex, Clerk | [Video Demo](https://www.youtube.com/watch?v=enMte0U_6Ck) |
+| Boozed.ai (Private)  | Web application commissioned for an automatic bartender      | React, Flask, Python      | [Video Demo](https://youtu.be/TGxvB6EAtmg) |
+| [Pantry Tracker](https://github.com/zchisholm/h02-pantry-tracker) | Quickly and easily track what is in your pantry.     | NEXT.js, Typescript    |     [Video Demo](https://www.youtube.com/watch?v=d-RJJAjwqCc)      |
+
+## 📖 Starter Guides
+<div id="starter-guides">
+  <a href="https://github.com/zchisholm/TKH-Group-2-Docker">
+    <img src="./assets/imgs/Getting-Started-Docker-ZC.jpg" width="200" alt="Getting Started with Docker"/>
+  </a>&nbsp;
+  <a href="https://github.com/zchisholm/starting-in-cyber-guide">
+    <img src="./assets/imgs/Self-Study-Cyber-ZC.jpg" width="200" alt="Self Study Cyber Guide"/>
+  </a>
+</div>
 
 ## 💻 Tech and Skills
 > Non-exhaustive list
@@ -34,6 +59,16 @@ My interests encompass: 🤖 AI, 💹 FinTech, 🔐 Security, 🏡 Real Estate
 | Dev           | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="50" height="50"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira"  alt="Jira" width="50" height="50"/>&nbsp; |
 | Sec           | ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)&nbsp; ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)&nbsp; ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)&nbsp; |
 | Ops           | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="k8s" alt="k8s" width="50" height="50"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="50" height="50"/>&nbsp; |
+
+
+## 🔥 My Stats
+<!-- [![Zedd's GitHub stats](https://github-readme-stats.vercel.app/api?username=zchisholm)](https://github.com/anuraghazra/github-readme-stats) -->
+
+### Github
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zchisholm&theme=tokyonight&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+### TryHackMe
+<img src="https://tryhackme-badges.s3.amazonaws.com/Ginenjuse.png" alt="TryHackMe" width="300px">
 
 ### Certs
 <div id="certs">
@@ -56,41 +91,6 @@ My interests encompass: 🤖 AI, 💹 FinTech, 🔐 Security, 🏡 Real Estate
     <img src="./assets/badges/Azure-A-102-Badge.svg" width="100" Title="AI-102" alt="Azure AI-102"/>
   </a>&nbsp;
 </div>
-
-
-## 🛠 Projects
-<div id="starter-guides">
-  <a href="https://github.com/zchisholm/DevOps-Pipeline-for-CI-CD">
-    <img src="./assets/imgs/DevSecOps-Project-Feature.png" width="200" alt="DevSecOps Pipeline in AWS"/>
-  </a>&nbsp;
-</div>
-
-### 👨🏾‍🍳 Other Projects
-
-| Project Name                           | Description                                              | Technologies Used                | Links     |
-|----------------------------------------|----------------------------------------------------------|----------------------------------|-----------|
-| [NeuroVision](https://github.com/zchisholm/Neuro-Vision) | AI Brain Tumor Detector  | Next.js, Convex, Clerk, Groq, ngrok | [Video Demo](https://www.youtube.com/watch?v=TqK2Pa8NoKQ) |
-| [z-cord](https://github.com/zchisholm/z-cord) | Chat application with AI content moderation.   | Groq, Llama, Next.js, Typescript, Convex, Clerk | [Video Demo](https://www.youtube.com/watch?v=enMte0U_6Ck) |
-| Boozed.ai (Private)  | Web application commissioned for an automatic bartender      | React, Flask, Python      | [Video Demo](https://youtu.be/TGxvB6EAtmg) |
-| [Pantry Tracker](https://github.com/zchisholm/h02-pantry-tracker) | Quickly and easily track what is in your pantry.     | NEXT.js, Typescript    |     [Video Demo](https://www.youtube.com/watch?v=d-RJJAjwqCc)      |
-
-
-## 📖 Starter Guides
-<div id="starter-guides">
-  <a href="https://github.com/zchisholm/TKH-Group-2-Docker">
-    <img src="./assets/imgs/Getting-Started-Docker-ZC.jpg" width="200" alt="Getting Started with Docker"/>
-  </a>&nbsp;
-  <a href="https://github.com/zchisholm/starting-in-cyber-guide">
-    <img src="./assets/imgs/Self-Study-Cyber-ZC.jpg" width="200" alt="Self Study Cyber Guide"/>
-  </a>
-</div>
-
-## 🔥 My Stats
-<!-- [![Zedd's GitHub stats](https://github-readme-stats.vercel.app/api?username=zchisholm)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/Ginenjuse.png" alt="TryHackMe" width="300px">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zchisholm&theme=tokyonight&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 Credits:
 - [@MishManners](https://github.com/mishmanners/MishManners) - For the cool profile tips
