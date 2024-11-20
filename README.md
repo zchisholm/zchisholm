@@ -69,9 +69,11 @@ My interests encompass: 🤖 AI, 💹 FinTech, 🔐 Security, 🏡 Real Estate
 
 | Project Name                           | Description                                              | Technologies Used                | Links     |
 |----------------------------------------|----------------------------------------------------------|----------------------------------|-----------|
-| [Pantry Tracker](https://github.com/zchisholm/h02-pantry-tracker) | Quickly and easily track what is in your pantry.             | NEXT.js, Typescript             |  |
-| [z-cord](https://github.com/zchisholm/z-cord) | Chat application with AI content moderation. | Groq, Llama, Next.js, Typescript, Convex, Clerk | [Video Demo](https://calendly.com/walkerlance/financial-services-initial-intake-meeting) |
-| Boozed.ai | Web application for an automatic Bartender | React, Flask, Python | [Video Demo](https://youtu.be/TGxvB6EAtmg) |
+| [NeuroVision](https://github.com/zchisholm/Neuro-Vision) | AI Brain Tumor Detector  | Next.js, Convex, Clerk, Groq, ngrok | [Video Demo](https://www.youtube.com/watch?v=TqK2Pa8NoKQ) |
+| [z-cord](https://github.com/zchisholm/z-cord) | Chat application with AI content moderation.   | Groq, Llama, Next.js, Typescript, Convex, Clerk | [Video Demo](https://www.youtube.com/watch?v=enMte0U_6Ck) |
+| Boozed.ai (Private)  | Web application commissioned for an automatic bartender      | React, Flask, Python      | [Video Demo](https://youtu.be/TGxvB6EAtmg) |
+| [Pantry Tracker](https://github.com/zchisholm/h02-pantry-tracker) | Quickly and easily track what is in your pantry.     | NEXT.js, Typescript    |     [Video Demo](https://www.youtube.com/watch?v=d-RJJAjwqCc)      |
+
 
 ## 📖 Starter Guides
 <div id="starter-guides">
