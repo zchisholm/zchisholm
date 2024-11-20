@@ -10,7 +10,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Welcome To My Profile
 
-I'm eager to contribute to the success of innovative companies by leveraging my expertise in information security and software engineering. I thrive in a fast-paced, mission-focused environment that fosters innovation, growth, and problem-solving. I enjoy tackling new challenges and expanding my knowledge base.
+I want to work on cool projects with smart people solving real problems. I enjoy all things cybersecurity and artifical intelligence. I'm currently studying AI and Machine Learning. I thrive in a fast-paced, mission-focused environment that fosters innovation, growth, and problem-solving. I enjoy tackling new challenges and expanding my knowledge base.
 
 🔥 Rapid Fire:
 
@@ -18,7 +18,7 @@ I'm eager to contribute to the success of innovative companies by leveraging my 
 - 🌱 I’m currently learning AI Security, API Security, Prompt Engineering and NEXT.JS
 - 👯 I’m looking to collaborate on cool business projects that help shape communities.
 - 🤔 I’m looking for help with financial empowerment for all people.
-- 💬 Ask me about cybersecurity, app development, and real estate.
+- 💬 Ask me about cybersecurity, AI app development, real estate, and skynet.
 - 📫 How to reach me: smoke signals... or &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-zchisholm-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zchisholm)&nbsp;
 - ⚡ Fun fact: ✈🪂
 
